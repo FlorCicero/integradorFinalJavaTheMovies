@@ -1,0 +1,4 @@
+config\Conexion.class
+controllers\ProductosController.class
+models\ProductosDao.class
+models\Productos.class
